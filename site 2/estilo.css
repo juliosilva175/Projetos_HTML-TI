@@ -1,0 +1,130 @@
+body{
+ /* background-color: rgb(49, 2, 2); */
+ background-image: url(img/planodefundo.jpg);
+ /* filter: blur(2px);
+ -webkit-filter: blur(2px); */
+
+}
+
+#topo{
+    margin-bottom: 20px;
+    
+    width: 100%;
+    heigt: 50px;
+    
+    
+}
+
+#titulo{
+    margin-left: 40%;
+    float:left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-size: 12px;
+}
+
+
+#perfil{
+    border: 2px black solid;
+    width: 50px;
+    height: 50px;
+    font-size: 12px;
+
+}
+
+/* ELEMENTOS DO MENU */
+#menu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 15px;
+    font-size: px;
+    border: 30px;
+
+
+}
+#posts{
+    margin: 5px 5px 2px 5px
+    float: left;
+
+}
+#about{
+    margin: 5px 5px 2px 5px; 
+    float:right
+}
+/* elementos da postagem */
+#lista-pstagem{
+    boder: 5px solid black;
+    border-radius: 20px;
+    width: 200px;
+    float: left;
+}
+.textposts{
+    margin: 5px 10px 2px 20;
+
+}
+#conteudo{
+    background-color: rgb(228, 228, 288); */
+    color; white;
+    border: 2px solid black
+    bordio-radius
+    margin-top; 10px;
+    margin-left: 250px;
+    padding-left: 10px;
+} 
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#perfil{
+    border: 
+    width: 
+    height:
+    floot:
+}
+
+
+
+
+
+
+#menu{
+    border: 2px solid black;
+    width: 200%;
+    height: 
+}
+
+
+
+
+
+
+
+
+
+
+/
+#lista de postagem{
+    border: 2px solid black
+    width: 200px;
+    float: left;
+
+}
+
+conteudo{
+    border: 2px solid black
+    margin-top: 0px;
+    margin-left: 250px;
+    padding-left: 10px;
+}
